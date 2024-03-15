@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Product Sans';
+    src: url('ProductSans-BoldItalic.woff2') format('woff2'),
+        url('ProductSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+

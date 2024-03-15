@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280.318" height="1384.971" viewBox="0 0 1280.318 1384.971">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005c96"/>
+      <stop offset="1" stop-color="#002e50"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3182" data-name="Group 3182" transform="translate(12181.001 -14280.5)">
+    <rect id="Rectangle_1982" data-name="Rectangle 1982" width="1280" height="180" transform="translate(-12181 15485)" fill="#fff"/>
+    <g id="Group_3181" data-name="Group 3181">
+      <rect id="Rectangle_1778" data-name="Rectangle 1778" width="1280" height="1043.088" transform="translate(-12181 14451.441)" fill="url(#linear-gradient)"/>
+      <path id="Path_3101" data-name="Path 3101" d="M-2794.082,5708.714v-171.94l-1280,171.94Z" transform="translate(-8106.919 8743.727)" fill="#005c96"/>
+      <path id="Polygon_21" data-name="Polygon 21" d="M42,0,84,313.317H0Z" transform="translate(-11214 15577.529) rotate(-90)" fill="#cde0f1" opacity="0.772"/>
+      <path id="Path_3102" data-name="Path 3102" d="M-2794.082,5708.714v-171.94l-1280,171.94Z" transform="translate(-14975.083 21202.244) rotate(180)" fill="#002e50"/>
+      <path id="Polygon_58" data-name="Polygon 58" d="M42,0,84,313.317H0Z" transform="translate(-11867.683 14368.441) rotate(90)" fill="#c1dbf1" opacity="0.772"/>
+    </g>
+  </g>
+</svg>

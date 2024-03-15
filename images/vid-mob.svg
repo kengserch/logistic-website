@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="1000" viewBox="0 0 390 1000">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005c96"/>
+      <stop offset="1" stop-color="#002e50"/>
+    </linearGradient>
+    <clipPath id="clip-Artboard_1">
+      <rect width="390" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="390" height="1000" fill="#fff"/>
+    <rect id="Rectangle_1982" data-name="Rectangle 1982" width="389.903" height="54.83" transform="translate(0 945.026)" fill="#fff"/>
+    <rect id="Rectangle_1778" data-name="Rectangle 1778" width="389.903" height="895.931" transform="translate(0 51.998)" fill="url(#linear-gradient)"/>
+    <path id="Path_3102" data-name="Path 3102" d="M389.9,52.375V0L0,52.375Z" transform="translate(389.903 1000) rotate(180)" fill="#002e50"/>
+    <path id="Path_3101" data-name="Path 3101" d="M-3684.179,5589.148v-52.375l-389.9,52.375Z" transform="translate(4074.082 -5536.773)" fill="#005c96"/>
+    <path id="Polygon_21" data-name="Polygon 21" d="M12.794,0,25.587,95.44H0Z" transform="translate(294.56 973.213) rotate(-90)" fill="#cde0f1" opacity="0.772"/>
+    <path id="Polygon_58" data-name="Polygon 58" d="M12.794,0,25.587,95.44H0Z" transform="translate(95.44 26.789) rotate(90)" fill="#d9e8f5"/>
+  </g>
+</svg>
